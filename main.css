@@ -137,6 +137,13 @@ li:hover,.dropdown li a:hover{
 	overflow: hidden;
 }
 
+@media (min-width: 767px){
+   .main-content{
+   	 height: 100vh;
+   	 
+   }
+
+}
 /*THE IMG COl*/
 
 .img-container{
